@@ -36,8 +36,8 @@ It uses **MediaPipe** for hand tracking, **OpenCV** for video processing, and **
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/srkthe27/Brightness_control_using_gesture.git
+   cd Brightness_control_using_gesture
    ```
 
 2. Create a virtual environment (recommended):
@@ -49,7 +49,7 @@ It uses **MediaPipe** for hand tracking, **OpenCV** for video processing, and **
 
 3. Install required dependencies:
    ```bash
-   pip install opencv-python mediapipe numpy wmi
+   pip install -r requirements.txt
    ```
 
 ---
