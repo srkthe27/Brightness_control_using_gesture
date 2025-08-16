@@ -1,0 +1,4 @@
+wmi
+numpy
+mediapipe
+opencv-python
